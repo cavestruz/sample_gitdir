@@ -1,7 +1,7 @@
 #!/bin/sh
 # This script counts to 15
 # written by me
-for file in {1..12};
+for file in {1..15};
 do
 echo $file;
 done
